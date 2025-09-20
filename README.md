@@ -26,6 +26,12 @@ A curated list of auditing resources.
 [Dravee](https://x.com/bowtieddravee):
 - [Mindsets of Auditing](https://justdravee.github.io/posts/video-mindsets-of-auditing/) (video)
 
+[HollaDieWaldfee](https://x.com/HollaWaldfee100):
+- https://x.com/HollaWaldfee100/status/1754806292458131457 (X thread)
+
+[Juan](https://x.com/0xjuaan):
+- [How I find vulnerabilities in smart contracts](https://x.com/0xjuaan/status/1806696969223745714) (X article)
+
 [Kirk Baird](https://x.com/kirkthebaird):
 - [A Security Engineer's Guide to Reviewing Core Blockchain Nodes](https://blog.sigmaprime.io/core-node-security.html) (blog article)
 
@@ -55,6 +61,7 @@ A curated list of auditing resources.
 - [trust_90: NSO Group Hacker turned Web3 Security Researcher](https://youtu.be/NC4uzV-syIw) (video)
 
 [Zach Obront](https://x.com/zachobront):
+- [Audit Process](https://x.com/zachobront/status/1606132664422891520) (X thread)
 - [Zach Obront: Winning Audit Contests & Crushing Bug Bounties](https://youtu.be/57V-57ZXmfA) (video)
 
 [Zigtur](https://x.com/zigtur):
@@ -64,3 +71,4 @@ A curated list of auditing resources.
 
 Other:
 - [Art Of Auditing](https://web3-sec.gitbook.io/art-of-auditing/) (blog articles)
+- [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](https://repo.zenk-security.com/Techniques%20d.attaques%20%20.%20%20Failles/The%20Art%20of%20Software%20Security%20Assessment%20-%20Identifying%20and%20Preventing%20Software%20Vulnerabilities.pdf), Part I (book)
