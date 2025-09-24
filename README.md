@@ -37,7 +37,7 @@ A curated list of *"just read the code bro"* resources.
 - [Audit Notes](https://x.com/HollaWaldfee100/status/1742901997945184257) (GitHub repo)
 
 [infosec_us_team](https://x.com/Infosec_us_team):
-- [Don't dive into a random line of code and hope for the best](https://x.com/nisedo_/status/1959941939702198358) (x post)
+- [Don't dive into a random line of code and hope for the best](https://x.com/nisedo_/status/1959941939702198358) (X post)
 
 [Juan](https://x.com/0xjuaan):
 - [How I find vulnerabilities in smart contracts](https://x.com/0xjuaan/status/1806696969223745714) (X article)
@@ -57,7 +57,7 @@ A curated list of *"just read the code bro"* resources.
 
 [nisedo](https://x.com/nisedo_):
 - [How to look where test coverage is lacking](https://x.com/nisedo_/status/1703803338326704217) (X post)
-- [First, list every entry point a user can interact with](https://x.com/nisedo_/status/1960289620199129089) (x post)
+- [First, list every entry point a user can interact with](https://x.com/nisedo_/status/1960289620199129089) (X post)
 
 [OwenThurm](https://x.com/0xOwenThurm):
 - [The Auditing Process](https://lab.guardianaudits.com/the-auditors-handbook/the-auditing-process) (blog article)
