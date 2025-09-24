@@ -27,7 +27,7 @@ A curated list of *"just read the code bro"* resources.
 - [How do you understand a codebase then how do you go from understanding to finding bugs?](https://x.com/DevDacian/status/1754129562261446679) (X post)
 
 [Daniel Von Fange](https://x.com/danielvf):
-- [How to find all the bugs in code review](X post) (video)
+- [How to find all the bugs in code review](https://www.youtube.com/watch?v=u7Tz6S0Dd0A) (video)
 
 [Dravee](https://x.com/bowtieddravee):
 - [Mindsets of Auditing](https://justdravee.github.io/posts/video-mindsets-of-auditing/) (video)
