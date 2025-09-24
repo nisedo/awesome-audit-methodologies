@@ -1,5 +1,5 @@
 # Awesome Audit Methodologies
-A curated list of auditing resources.
+A curated list of *"just read the code bro"* resources.
 
 [0x52](https://x.com/IAm0x52):
 - [His Auditing Strategy](https://discord.com/channels/892958705933512744/1110934932240465990/1111092389466087455) (Discord thread)
@@ -7,6 +7,9 @@ A curated list of auditing resources.
 
 [Alix40](https://x.com/AliX__40):
 - [Auditing math heavy functions](https://x.com/AliX__40/status/1807319152811512143) (X post)
+
+[cergyk](https://x.com/cergyk1337):
+- [BUG HUNTING TATICS WITH CERGYK.ETH](https://youtu.be/GymBYAwjAqo) (video)
 
 [Charles Wang](https://x.com/0xCharlesWang):
 - [Taking a break during the audit](https://x.com/0xCharlesWang/status/1697927014416552313) (X post)
@@ -23,11 +26,15 @@ A curated list of auditing resources.
 [Dacian](https://x.com/DevDacian):
 - [How do you understand a codebase then how do you go from understanding to finding bugs?](https://x.com/DevDacian/status/1754129562261446679) (X post)
 
+[Daniel Von Fange](https://x.com/danielvf):
+- [How to find all the bugs in code review](X post) (video)
+
 [Dravee](https://x.com/bowtieddravee):
 - [Mindsets of Auditing](https://justdravee.github.io/posts/video-mindsets-of-auditing/) (video)
 
 [HollaDieWaldfee](https://x.com/HollaWaldfee100):
 - [Audit methodologies are overrated](https://x.com/HollaWaldfee100/status/1754806292458131457) (X thread)
+- [Audit Notes](https://x.com/HollaWaldfee100/status/1742901997945184257) (GitHub repo)
 
 [infosec_us_team](https://x.com/Infosec_us_team):
 - [Don't dive into a random line of code and hope for the best](https://x.com/nisedo_/status/1959941939702198358) (x post)
@@ -41,8 +48,12 @@ A curated list of auditing resources.
 [MiloTruck](https://x.com/MiloTruck):
 - [MiloTruck Interview - 2 Hours of PURE Smart Contract Auditing ALPHA](https://www.youtube.com/watch?v=g5Obbl0cAwk) (video)
 - [Web3 Security Contests With Milotruck](https://www.youtube.com/watch?v=DySpPB3079k) (video)
-- [Old Smart Contract Audit Methodology](https://github.com/MiloTruck/smart-contract/blob/main/notes/audit-methodology.md) (README)
+- [Old Smart Contract Audit Methodology](https://github.com/MiloTruck/smart-contract/blob/main/notes/audit-methodology.md) (Readme)
 - [His auditing approach](https://discord.com/channels/892958705933512744/1155883471655403651/1155898999757344948) (Discord thread)
+
+[Mudit Gupta](https://x.com/Mudit__Gupta):
+- [Auditing Smart Contracts - Security Review of Ethereum Applications](https://www.youtube.com/live/LLiJK_VeAvQ) (video)
+- [Smart Contracts Risk Analysis and Flash Loan Exploits - Ethereum Security](https://www.youtube.com/live/nLHCyEvszkc) (video)
 
 [nisedo](https://x.com/nisedo_):
 - [How to look where test coverage is lacking](https://x.com/nisedo_/status/1703803338326704217) (X post)
@@ -53,10 +64,16 @@ A curated list of auditing resources.
 - [Everything you need to know about the audit process, combined into a single handbook](https://x.com/0xOwenThurm/thread/1618386420456099841) (X thread)
 - [Complete Smart Contract Auditing System](https://youtu.be/5g-Hzw5ind8) (video)
 - [How To Find SO Many Criticals You Get Bored Of Auditing](https://youtu.be/oIoozgIl4pw) (video)
+- [Live Audit Series](https://www.youtube.com/playlist?list=PLTJasqY2MI_9-9Sqqe2wFiZlWB6dwNRAU) (videos)
+- [Audit With Me | Live Codehawks Contest](https://youtu.be/kjbMsKyI2-s) (video)
+- [[LIVE] How To Find Vulnerabilities In Audit Contests - GTDA | C4 Contest](https://youtu.be/WjCVT2hRNXE) (video)
 
 [Phil](https://x.com/philbugcatcher):
 - [Auditing Step By Step: Part 1](https://x.com/philbugcatcher/status/1966635679368003633) (X thread)
 - [Finding Ways To Break Smart Contracts (Auditing: Part 2)](https://x.com/philbugcatcher/status/1968901624169984006) (X thread)
+
+[samczsun](https://x.com/samczsun):
+- [DeFi Lecture 12: Practical Smart Contract Security](https://www.youtube.com/watch?v=pJKy5HWuFK8) (video)
 
 [Riptide](https://x.com/0xriptide):
 - [Read through a codebase and write down the...](https://x.com/0xriptide/status/1697616825335394440) (X post)
@@ -76,6 +93,7 @@ A curated list of auditing resources.
 [Zach Obront](https://x.com/zachobront):
 - [Audit Process](https://x.com/zachobront/status/1606132664422891520) (X thread)
 - [Zach Obront: Winning Audit Contests & Crushing Bug Bounties](https://youtu.be/57V-57ZXmfA) (video)
+- [Anytime I don't catch an issue](https://x.com/zachobront/status/1644768121683574793) (X post)
 
 [Zigtur](https://x.com/zigtur):
 - [The Journey to Earning $500,000+ as a Security Researcher | Cantina](https://www.youtube.com/watch?v=_5Fya4Lu7-Q) (video)
