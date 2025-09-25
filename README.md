@@ -90,6 +90,10 @@ A curated list of *"just read the code bro"* resources.
 - [When you open a smart contract in your favorite editor, what do you see?](https://x.com/trust__90/status/1661421041414025216) (X thread)
 - [Reporting tips](https://x.com/trust__90/status/1734182172855095367) (X post)
 
+[WhiteHatMage](https://x.com/WhiteHatMage):
+- [don't look for bugs, look for vulnerabilities](https://x.com/WhiteHatMage/status/1945770535633228290) (X post)
+- [searcher & researcher](https://x.com/WhiteHatMage/status/1920467013668917262) (X post)
+
 [Zach Obront](https://x.com/zachobront):
 - [Audit Process](https://x.com/zachobront/status/1606132664422891520) (X thread)
 - [Zach Obront: Winning Audit Contests & Crushing Bug Bounties](https://youtu.be/57V-57ZXmfA) (video)
