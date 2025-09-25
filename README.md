@@ -2,7 +2,7 @@
 A curated list of *"just read the code bro"* resources.
 
 [0x52](https://x.com/IAm0x52):
-- [His Auditing Strategy](https://discord.com/channels/892958705933512744/1110934932240465990/1111092389466087455) (Discord thread)
+- [His Auditing Strategy](https://discord.com/channels/892958705933512744/1110934932240465990/1111092389466087455) ([Discord thread](https://discord.gg/JzFNdyGByQ))
 - [Audit Notes](https://github.com/IAm0x52/AuditNoteSharing) (GitHub repo)
 
 [Alix40](https://x.com/AliX__40):
@@ -49,7 +49,7 @@ A curated list of *"just read the code bro"* resources.
 - [MiloTruck Interview - 2 Hours of PURE Smart Contract Auditing ALPHA](https://www.youtube.com/watch?v=g5Obbl0cAwk) (video)
 - [Web3 Security Contests With Milotruck](https://www.youtube.com/watch?v=DySpPB3079k) (video)
 - [Old Smart Contract Audit Methodology](https://github.com/MiloTruck/smart-contract/blob/main/notes/audit-methodology.md) (Readme)
-- [His auditing approach](https://discord.com/channels/892958705933512744/1155883471655403651/1155898999757344948) (Discord thread)
+- [His auditing approach](https://discord.com/channels/892958705933512744/1155883471655403651/1155898999757344948) ([Discord thread](https://discord.gg/JzFNdyGByQ))
 
 [Mudit Gupta](https://x.com/Mudit__Gupta):
 - [Auditing Smart Contracts - Security Review of Ethereum Applications](https://www.youtube.com/live/LLiJK_VeAvQ) (video)
