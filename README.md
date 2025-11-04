@@ -35,6 +35,9 @@ A curated list of *"just read the code bro"* resources.
 [Dravee](https://x.com/bowtieddravee):
 - [Mindsets of Auditing](https://justdravee.github.io/posts/video-mindsets-of-auditing/) (video)
 
+[Joran Honig](https://x.com/joranhonig)
+- [I'm not a big fan of line by line code reading](https://x.com/joranhonig/status/1985389776036340126) (X post)
+
 [HollaDieWaldfee](https://x.com/HollaWaldfee100):
 - [Audit methodologies are overrated](https://x.com/HollaWaldfee100/status/1754806292458131457) (X thread)
 - [Audit Notes](https://x.com/HollaWaldfee100/status/1742901997945184257) (GitHub repo)
