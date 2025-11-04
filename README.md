@@ -5,6 +5,9 @@ A curated list of *"just read the code bro"* resources.
 - [His Auditing Strategy](https://discord.com/channels/892958705933512744/1110934932240465990/1111092389466087455) ([Discord thread](https://discord.gg/JzFNdyGByQ))
 - [Audit Notes](https://github.com/IAm0x52/AuditNoteSharing) (GitHub repo)
 
+[0xSimao](https://x.com/0xSimao)
+- [My security methodology consists of 3 phases](https://x.com/0xSimao/status/1985673196880667100) (X thread)
+
 [Alix40](https://x.com/AliX__40):
 - [Auditing math heavy functions](https://x.com/AliX__40/status/1807319152811512143) (X post)
 
