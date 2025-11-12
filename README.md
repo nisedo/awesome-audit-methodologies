@@ -3,7 +3,7 @@ A curated list of *"just read the code bro"* resources.
 
 ![GYUIRnmW0AAiypB (1) (1)](https://github.com/user-attachments/assets/baaec85d-305e-474b-ae1e-00b06a2507a9)
 
-[0x52](https://x.com/IAm0x52):
+[0x52](https://x.com/IAm0x52)
 - [His Auditing Strategy](https://discord.com/channels/892958705933512744/1110934932240465990/1111092389466087455) ([Discord thread](https://discord.gg/JzFNdyGByQ))
 - [Audit Notes](https://github.com/IAm0x52/AuditNoteSharing) (GitHub repo)
 
@@ -13,50 +13,50 @@ A curated list of *"just read the code bro"* resources.
 [3DOC](https://x.com/3docsec)
 - [Testing for audits: there is no spoon](https://3doc.fr/blog/23-10-26-testing-for-audits.html) (blog article)
 
-[Alix40](https://x.com/AliX__40):
+[Alix40](https://x.com/AliX__40)
 - [Auditing math heavy functions](https://x.com/AliX__40/status/1807319152811512143) (X post)
 
-[cergyk](https://x.com/cergyk1337):
+[cergyk](https://x.com/cergyk1337)
 - [BUG HUNTING TATICS WITH CERGYK.ETH](https://youtu.be/GymBYAwjAqo) (video)
 
-[Charles Wang](https://x.com/0xCharlesWang):
+[Charles Wang](https://x.com/0xCharlesWang)
 - [Taking a break during the audit](https://x.com/0xCharlesWang/status/1697927014416552313) (X post)
 
-[CMichel](https://x.com/cmichelio):
+[CMichel](https://x.com/cmichelio)
 - [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/) (blog article)
 - [How could I have found that faster?](https://x.com/cmichelio/status/1884541645078818897) (X post)
 - [How to read reports](https://x.com/cmichelio/status/1892192145047736333) (X post)
 - [Thinking about how an implementation should look like](https://x.com/cmichelio/status/1807332056852217886) (X post)
 
-[curiousapple](https://x.com/0xcuriousapple):
+[curiousapple](https://x.com/0xcuriousapple)
 - [2 ways to review DeFi smart contracts](https://x.com/0xcuriousapple/status/1961582165679911114) (X post)
 
-[Dacian](https://x.com/DevDacian):
+[Dacian](https://x.com/DevDacian)
 - [How do you understand a codebase then how do you go from understanding to finding bugs?](https://x.com/DevDacian/status/1754129562261446679) (X post)
 
-[Daniel Von Fange](https://x.com/danielvf):
+[Daniel Von Fange](https://x.com/danielvf)
 - [How to find all the bugs in code review](https://www.youtube.com/watch?v=u7Tz6S0Dd0A) (video)
 
-[Dravee](https://x.com/bowtieddravee):
+[Dravee](https://x.com/bowtieddravee)
 - [Mindsets of Auditing](https://justdravee.github.io/posts/video-mindsets-of-auditing/) (video)
 
 [Joran Honig](https://x.com/joranhonig)
 - [I'm not a big fan of line by line code reading](https://x.com/joranhonig/status/1985389776036340126) (X post)
 
-[HollaDieWaldfee](https://x.com/HollaWaldfee100):
+[HollaDieWaldfee](https://x.com/HollaWaldfee100)
 - [Audit methodologies are overrated](https://x.com/HollaWaldfee100/status/1754806292458131457) (X thread)
 - [Audit Notes](https://x.com/HollaWaldfee100/status/1742901997945184257) (GitHub repo)
 
-[infosec_us_team](https://x.com/Infosec_us_team):
+[infosec_us_team](https://x.com/Infosec_us_team)
 - [Don't dive into a random line of code and hope for the best](https://x.com/nisedo_/status/1959941939702198358) (X post)
 
-[Juan](https://x.com/0xjuaan):
+[Juan](https://x.com/0xjuaan)
 - [How I find vulnerabilities in smart contracts](https://x.com/0xjuaan/status/1806696969223745714) (X article)
 
-[Kirk Baird](https://x.com/kirkthebaird):
+[Kirk Baird](https://x.com/kirkthebaird)
 - [A Security Engineer's Guide to Reviewing Core Blockchain Nodes](https://blog.sigmaprime.io/core-node-security.html) (blog article)
 
-[MiloTruck](https://x.com/MiloTruck):
+[MiloTruck](https://x.com/MiloTruck)
 - [MiloTruck Interview - 2 Hours of PURE Smart Contract Auditing ALPHA](https://www.youtube.com/watch?v=g5Obbl0cAwk) (video)
 - [Web3 Security Contests With Milotruck](https://www.youtube.com/watch?v=DySpPB3079k) (video)
 - [Old Smart Contract Audit Methodology](https://github.com/MiloTruck/smart-contract/blob/main/notes/audit-methodology.md) (Readme)
