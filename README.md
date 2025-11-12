@@ -33,6 +33,7 @@ A curated list of *"just read the code bro"* resources.
 
 [Dacian](https://x.com/DevDacian)
 - [How do you understand a codebase then how do you go from understanding to finding bugs?](https://x.com/DevDacian/status/1754129562261446679) (X post)
+- [Comment line-by-line explaining what each line does](https://x.com/DevDacian/status/1826602619202420739) (X post)
 
 [Daniel Von Fange](https://x.com/danielvf)
 - [How to find all the bugs in code review](https://www.youtube.com/watch?v=u7Tz6S0Dd0A) (video)
