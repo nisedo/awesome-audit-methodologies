@@ -94,7 +94,7 @@ A curated list of *"just read the code bro"* resources.
 - [Question until it crashes](https://blog.theredguild.org/question-until-it-crashes/) (blog article)
 - [Top Web3 Security Researcher Gives you his EXACT Audit Process | Damn Vulnerable DeFi creator Tincho](https://www.youtube.com/watch?v=A-T9F0anN1E) (video)
 
-[Tigran Piliposyan:](https://x.com/tpiliposian)
+[Tigran Piliposyan](https://x.com/tpiliposian)
 - [Intense concentration is key](https://x.com/tpiliposian/status/1697966996359377131) (X post)
 
 [Trust](https://x.com/trust__90)
@@ -116,6 +116,6 @@ A curated list of *"just read the code bro"* resources.
 
 ---
 
-Other:
+Other
 - [Art Of Auditing](https://web3-sec.gitbook.io/art-of-auditing/) (blog articles)
 - [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](https://repo.zenk-security.com/Techniques%20d.attaques%20%20.%20%20Failles/The%20Art%20of%20Software%20Security%20Assessment%20-%20Identifying%20and%20Preventing%20Software%20Vulnerabilities.pdf), Part I (book)
