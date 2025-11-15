@@ -1,7 +1,7 @@
 # Awesome Audit Methodologies
 A curated list of *"just read the code bro"* resources.
 
-![GYUIRnmW0AAiypB (1) (1)](https://github.com/user-attachments/assets/baaec85d-305e-474b-ae1e-00b06a2507a9)
+<img width="675" height="499" alt="ac5rb2" src="https://github.com/user-attachments/assets/9ba557bc-c242-45e5-b352-e217800b9af5" />
 
 [0x52](https://x.com/IAm0x52)
 - [His Auditing Strategy](https://discord.com/channels/892958705933512744/1110934932240465990/1111092389466087455) ([Discord thread](https://discord.gg/JzFNdyGByQ))
