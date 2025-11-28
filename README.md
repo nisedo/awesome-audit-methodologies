@@ -50,6 +50,7 @@ A curated list of *"just read the code bro"* resources.
 
 [infosec_us_team](https://x.com/Infosec_us_team)
 - [Don't dive into a random line of code and hope for the best](https://x.com/nisedo_/status/1959941939702198358) (X post)
+- [We stick to a new protocol until we burn out](https://x.com/infosec_us_team/status/1989238787654689124)(X post)
 
 [Juan](https://x.com/0xjuaan)
 - [How I find vulnerabilities in smart contracts](https://x.com/0xjuaan/status/1806696969223745714) (X article)
