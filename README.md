@@ -122,3 +122,4 @@ A curated list of *"just read the code bro"* resources.
 Other
 - [Art Of Auditing](https://web3-sec.gitbook.io/art-of-auditing/) (blog articles)
 - [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](https://repo.zenk-security.com/Techniques%20d.attaques%20%20.%20%20Failles/The%20Art%20of%20Software%20Security%20Assessment%20-%20Identifying%20and%20Preventing%20Software%20Vulnerabilities.pdf), Part I (book)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
